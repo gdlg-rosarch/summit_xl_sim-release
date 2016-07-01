@@ -2,6 +2,11 @@
 Changelog for package summit_xl_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.4 (2016-07-01)
+------------------
+* modified dependencies
+* Contributors: carlos3dx
+
 1.0.3 (2016-07-01)
 ------------------
 * Removed dependencies
