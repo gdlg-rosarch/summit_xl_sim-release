@@ -1,6 +1,6 @@
 <package>
   <name>summit_xl_gazebo</name>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <description>
 		Launch files and world files to start the models in gazebo
 	</description>
@@ -15,6 +15,16 @@
   
   
   <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_srvs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>gazebo_ros</build_depend>
+  <build_depend>summit_xl_control</build_depend>  
+  <build_depend>summit_xl_robot_control</build_depend>  
+  <build_depend>summit_xl_description</build_depend> 
+  <build_depend>xacro</build_depend> 
 
   <run_depend>roscpp</run_depend>
   <run_depend>std_srvs</run_depend>
