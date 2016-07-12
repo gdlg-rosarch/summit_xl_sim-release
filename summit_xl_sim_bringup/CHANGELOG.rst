@@ -2,6 +2,14 @@
 Changelog for package summit_xl_sim_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.8 (2016-07-12)
+------------------
+* deleted dependency
+* Contributors: carlos3dx
+
+1.0.7 (2016-07-12)
+------------------
+
 1.0.6 (2016-07-04)
 ------------------
 * Modified CMakeLists.txt
