@@ -1,3 +1,31 @@
+## summit_xl_sim (kinetic) - 1.0.9-2
+
+The packages in the `summit_xl_sim` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic summit_xl_sim` on `Wed, 24 Aug 2016 05:16:20 -0000`
+
+These packages were released:
+- `summit_xl_control`
+- `summit_xl_gazebo`
+- `summit_xl_robot_control`
+- `summit_xl_sim`
+- `summit_xl_sim_bringup`
+
+Version of package(s) in repository `summit_xl_sim`:
+
+- upstream repository: https://github.com/RobotnikAutomation/summit_xl_sim.git
+- release repository: https://github.com/RobotnikAutomation/summit_xl_sim-release.git
+- rosdistro version: `1.0.9-0`
+- old version: `1.0.9-1`
+- new version: `1.0.9-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## summit_xl_sim (kinetic) - 1.0.9-1
 
 The packages in the `summit_xl_sim` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic summit_xl_sim` on `Wed, 24 Aug 2016 05:10:23 -0000`
